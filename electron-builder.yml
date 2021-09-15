@@ -1,0 +1,12 @@
+appId: me.cocoblanco.nitro
+productName: DiscordNitro
+copyright: Copyright © 2021 Coco Blanco
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
