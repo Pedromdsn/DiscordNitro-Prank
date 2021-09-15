@@ -1,38 +1,18 @@
-<p align="center"><img src="https://i.imgur.com/a9QWW0v.png"></p>
+# DiscordNitro-Prank
 
-## Usage
+## A teste app, made using the latest technologies.
 
-### Create an App
+In the construction of the app, the [React.js](https://reactjs.org/) library was used with the [Nextron.js](https://nextjs.org/) framework with Typescript.
+In the styling of the site was used [Tailwindcss](https://tailwindcss.com/).
 
-```
-# with npx
-$ npx create-nextron-app my-app --example with-typescript-tailwindcss
+## Preview:
 
-# with yarn
-$ yarn create nextron-app my-app --example with-typescript-tailwindcss
+<div align="center">
+<img src="https://i.imgur.com/E9Fdoha.png">
+</div>
 
-# with pnpx
-$ pnpx create-nextron-app my-app --example with-typescript-tailwindcss
-```
+## Contact
 
-### Install Dependencies
+Discord: Coco Blanco#3873
 
-```
-$ cd my-app
-
-# using yarn or npm
-$ yarn (or `npm install`)
-
-# using pnpm
-$ pnpm install --shamefully-hoist
-```
-
-### Use it
-
-```
-# development mode
-$ yarn dev (or `npm run dev` or `pnpm run dev`)
-
-# production build
-$ yarn build (or `npm run build` or `pnpm run build`)
-```
+Site: https://cocoblanco.fun
